@@ -49,6 +49,7 @@
 		2FBF1E211E70F31F00BB478C /* bootCampTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bootCampTestUITests.swift; sourceTree = "<group>"; };
 		2FBF1E231E70F31F00BB478C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2FBF1E2F1E70F8EA00BB478C /* test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
+		2FBF1E311E70FDCF00BB478C /* test.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = test.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				2FBF1E0A1E70F31E00BB478C /* LaunchScreen.storyboard */,
 				2FBF1E0D1E70F31E00BB478C /* Info.plist */,
 				2FBF1E2F1E70F8EA00BB478C /* test.swift */,
+				2FBF1E311E70FDCF00BB478C /* test.playground */,
 			);
 			path = bootCampTest;
 			sourceTree = "<group>";
